@@ -3,7 +3,7 @@
 
 # @seneca/browser
 
-[![npm version](https://img.shields.io/npm/v/@seneca/browser.svg)](https://npmjs.com/package/@seneca/browser)
+[![npm version](https://img.shields.io/npm/v/seneca-browser.svg)](https://npmjs.com/package/seneca-browser)
 [![build](https://github.com/senecajs/seneca-browser/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-browser/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-browser/badge.svg)](https://snyk.io/test/github/senecajs/seneca-browser)
 
@@ -35,8 +35,10 @@ Allows Seneca to run in the browser, enabling microservice communication via Web
 
 If you're using this module and need help, you can:
 
-- Post a [github issue][]
-- Tweet to [@senecajs][]
+- Post a [github issue](https://github.com/senecajs/seneca-browser/issues)
+- Tweet to [@senecajs](http://twitter.com/senecajs)
+- Ask on the [Gitter](https://gitter.im/senecajs/seneca)
+
 
 ## API
 
