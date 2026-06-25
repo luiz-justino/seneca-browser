@@ -7,9 +7,6 @@
 [![build](https://github.com/senecajs/seneca-browser/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-browser/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-browser/badge.svg)](https://snyk.io/test/github/senecajs/seneca-browser)
 
-
-
-
 | ![Voxgig](https://www.voxgig.com/res/img/vgt01r.png) | This open source module is sponsored and supported by [Voxgig](https://www.voxgig.com). |
 |---|---|
 
@@ -59,5 +56,4 @@ npm run test
 ## Background
 
 Experimental plugin for browser-side Seneca usage.
-
 
