@@ -15,14 +15,14 @@
 
 ```sh
 npm install seneca-browser
-```
+```js
 
 ## Quick Example
 
 ```js
 var seneca = Seneca()
 seneca.use('browser')
-```
+```js
 
 ## More Examples
 
@@ -57,7 +57,7 @@ The [Senecajs org](https://github.com/senecajs/) encourages open participation. 
 
 ```sh
 npm run test
-```
+```js
 
 ## Background
 
