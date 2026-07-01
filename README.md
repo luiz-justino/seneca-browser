@@ -13,17 +13,15 @@
 
 ## Install
 
-```sh
+```
 npm install seneca-browser
-```js
-
+```
 ## Quick Example
 
-```js
+```
 var seneca = Seneca()
 seneca.use('browser')
-```js
-
+```
 ## More Examples
 
 See [test/](test/) for usage examples.
@@ -55,10 +53,9 @@ The [Senecajs org](https://github.com/senecajs/) encourages open participation. 
 
 ### Running tests
 
-```sh
+```
 npm run test
-```js
-
+```
 ## Background
 
 Experimental plugin for browser-side Seneca usage.
